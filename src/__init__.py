@@ -7,7 +7,7 @@ import gettext
 
 from Components.Language import language
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
-
+__version__ = "2.1"
 PluginLanguageDomain = "Mosaic"
 PluginLanguagePath = "Extensions/Mosaic/locale"
 
