@@ -58,3 +58,29 @@ msgstr ""
 #: plugin.py:607
 msgid "Help    : this help"
 msgstr ""
+
+# New strings
+
+msgid "Folder for screenshot temporaly"
+msgstr ""
+
+msgid "Interval between automatic screenshots."
+msgstr ""
+
+msgid "Interval screenshots"
+msgstr ""
+
+msgid "Mosaic Settings"
+msgstr ""
+
+msgid "Number of channel previews displayed."
+msgstr ""
+
+msgid "Number of previews displayed"
+msgstr ""
+
+msgid "Please restart the plugin to apply screen mode changes"
+msgstr ""
+
+msgid "Set folder for screenshot temporaly."
+msgstr ""

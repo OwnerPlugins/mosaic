@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mosaic.nl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"POT-Creation-Date: 2025-05-19 16:24+0200\n"
 "PO-Revision-Date: 2009-01-06 17:43+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -17,14 +17,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
-msgid "Channel: "
-msgstr "Kanaal : "
+#: plugin.py:604
+msgid "1-9(4)  : switch to screen 1-9(4) and leave\n"
+msgstr ""
 
-msgid "Countdown:"
-msgstr "Aftelling:"
+#: plugin.py:603
+msgid "Blue    : toggle 9/4 screens\n"
+msgstr ""
 
-msgid "Error while creating screenshot. You need grab version 0.8 or higher!"
-msgstr "Fout bij het maken van een schermafdruk. Grab versie 0.8 of hoger is nodig !"
+#: plugin.py:600
+msgid "CH+/CH- : countdown to next screen in secs (3-30)\n"
+msgstr ""
 
-msgid "Mosaic"
-msgstr "Mosaic"
+#: plugin.py:606
+msgid "Exit    : leave to previously service\n"
+msgstr ""
+
+# New strings
+msgid "Folder for screenshot temporaly"
+msgstr ""
+
+#: plugin.py:601
+msgid "Green   : play Mosaic\n"
+msgstr ""
+
+#: plugin.py:607
+msgid "Help    : this help"
+msgstr ""
+
+msgid "Interval between automatic screenshots."
+msgstr ""
+
+msgid "Interval screenshots"
+msgstr ""
+
+msgid "Mosaic Settings"
+msgstr ""
+
+msgid "Number of channel previews displayed."
+msgstr ""
+
+msgid "Number of previews displayed"
+msgstr ""
+
+#: plugin.py:605
+msgid "OK      : switch to current screen and leave\n"
+msgstr ""
+
+#: plugin.py:537
+msgid "Pause"
+msgstr ""
+
+msgid "Please restart the plugin to apply screen mode changes"
+msgstr ""
+
+msgid "Set folder for screenshot temporaly."
+msgstr ""
+
+#: plugin.py:536
+msgid "Switch 4/9"
+msgstr ""
+
+#: plugin.py:602
+msgid "Yellow  : pause Mosaic\n"
+msgstr ""
+
+#~ msgid "Channel: "
+#~ msgstr "Kanaal : "
+
+#~ msgid "Countdown:"
+#~ msgstr "Aftelling:"
+
+#~ msgid "Error while creating screenshot. You need grab version 0.8 or higher!"
+#~ msgstr "Fout bij het maken van een schermafdruk. Grab versie 0.8 of hoger is nodig !"
+
+#~ msgid "Mosaic"
+#~ msgstr "Mosaic"

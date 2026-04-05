@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 - mosaic\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-19 16:25+0200\n"
+"POT-Creation-Date: 2025-05-19 16:24+0200\n"
 "PO-Revision-Date: 2025-05-19 16:29+0200\n"
 "Last-Translator: Spaeleus <spaeleus@croci.org>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
@@ -16,45 +16,70 @@ msgstr ""
 "X-Generator: Poedit 3.6\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
 
-#: plugin.py:536
-msgid "Switch 4/9"
-msgstr ""
-
-#: plugin.py:537
-msgid "Pause"
-msgstr "Pausa"
-
-#: plugin.py:600
-msgid "CH+/CH- : countdown to next screen in secs (3-30)\n"
-msgstr "CH+/CH-: conto alla rovescia per la schermata successiva in secondi (3-30)\n"
-
-#: plugin.py:601
-msgid "Green   : play Mosaic\n"
-msgstr "Verde   : riproduci  Mosaic\n"
-
-#: plugin.py:602
-msgid "Yellow  : pause Mosaic\n"
-msgstr "Giallo  : pausa Mosaic\n"
+#: plugin.py:604
+msgid "1-9(4)  : switch to screen 1-9(4) and leave\n"
+msgstr "1-9(4)  : passa alla schermata 1-9(4) aed esci\n"
 
 #: plugin.py:603
 msgid "Blue    : toggle 9/4 screens\n"
 msgstr "Blu    : attiva/disattiva le schermate 9/4\n"
 
-#: plugin.py:604
-msgid "1-9(4)  : switch to screen 1-9(4) and leave\n"
-msgstr "1-9(4)  : passa alla schermata 1-9(4) aed esci\n"
-
-#: plugin.py:605
-msgid "OK      : switch to current screen and leave\n"
-msgstr "OK      : passa alla schermata corrente e esci\n"
+#: plugin.py:600
+msgid "CH+/CH- : countdown to next screen in secs (3-30)\n"
+msgstr "CH+/CH-: conto alla rovescia per la schermata successiva in secondi (3-30)\n"
 
 #: plugin.py:606
 msgid "Exit    : leave to previously service\n"
 msgstr "Esci    : abbandonare il servizio precedente\n"
 
+# New strings
+msgid "Folder for screenshot temporaly"
+msgstr ""
+
+#: plugin.py:601
+msgid "Green   : play Mosaic\n"
+msgstr "Verde   : riproduci  Mosaic\n"
+
 #: plugin.py:607
 msgid "Help    : this help"
 msgstr "Help    : questo messaggio di Aiuto"
+
+msgid "Interval between automatic screenshots."
+msgstr ""
+
+msgid "Interval screenshots"
+msgstr ""
+
+msgid "Mosaic Settings"
+msgstr ""
+
+msgid "Number of channel previews displayed."
+msgstr ""
+
+msgid "Number of previews displayed"
+msgstr ""
+
+#: plugin.py:605
+msgid "OK      : switch to current screen and leave\n"
+msgstr "OK      : passa alla schermata corrente e esci\n"
+
+#: plugin.py:537
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Please restart the plugin to apply screen mode changes"
+msgstr ""
+
+msgid "Set folder for screenshot temporaly."
+msgstr ""
+
+#: plugin.py:536
+msgid "Switch 4/9"
+msgstr ""
+
+#: plugin.py:602
+msgid "Yellow  : pause Mosaic\n"
+msgstr "Giallo  : pausa Mosaic\n"
 
 #~ msgid "Channel: "
 #~ msgstr "Canale: "

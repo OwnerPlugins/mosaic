@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 mosaic plugin Turkish Locale\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"POT-Creation-Date: 2025-05-19 16:24+0200\n"
 "PO-Revision-Date: 2008-12-04 16:06+0200\n"
 "Last-Translator: Zülfikar VEYİSOĞLU <zveyis@gmail.com>\n"
 "Language-Team: www.turkeyforum.com/satforum <zveyis@gmail.com>\n"
@@ -14,14 +14,79 @@ msgstr ""
 "X-Poedit-Country: TURKEY\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-msgid "Channel: "
-msgstr "Kanal:"
+#: plugin.py:604
+msgid "1-9(4)  : switch to screen 1-9(4) and leave\n"
+msgstr ""
 
-msgid "Countdown:"
-msgstr "Sayaç:"
+#: plugin.py:603
+msgid "Blue    : toggle 9/4 screens\n"
+msgstr ""
 
-msgid "Error while creating screenshot. You need grab version 0.8 or higher!"
-msgstr "Ekran görüntüsü oluşturulurken hata oluştu. Grab sürüm 0.8 veya daha üstü gerekli!"
+#: plugin.py:600
+msgid "CH+/CH- : countdown to next screen in secs (3-30)\n"
+msgstr ""
 
-msgid "Mosaic"
-msgstr "Mozaik"
+#: plugin.py:606
+msgid "Exit    : leave to previously service\n"
+msgstr ""
+
+# New strings
+msgid "Folder for screenshot temporaly"
+msgstr ""
+
+#: plugin.py:601
+msgid "Green   : play Mosaic\n"
+msgstr ""
+
+#: plugin.py:607
+msgid "Help    : this help"
+msgstr ""
+
+msgid "Interval between automatic screenshots."
+msgstr ""
+
+msgid "Interval screenshots"
+msgstr ""
+
+msgid "Mosaic Settings"
+msgstr ""
+
+msgid "Number of channel previews displayed."
+msgstr ""
+
+msgid "Number of previews displayed"
+msgstr ""
+
+#: plugin.py:605
+msgid "OK      : switch to current screen and leave\n"
+msgstr ""
+
+#: plugin.py:537
+msgid "Pause"
+msgstr ""
+
+msgid "Please restart the plugin to apply screen mode changes"
+msgstr ""
+
+msgid "Set folder for screenshot temporaly."
+msgstr ""
+
+#: plugin.py:536
+msgid "Switch 4/9"
+msgstr ""
+
+#: plugin.py:602
+msgid "Yellow  : pause Mosaic\n"
+msgstr ""
+
+#~ msgid "Channel: "
+#~ msgstr "Kanal:"
+
+#~ msgid "Countdown:"
+#~ msgstr "Sayaç:"
+
+#~ msgid "Error while creating screenshot. You need grab version 0.8 or higher!"
+#~ msgstr "Ekran görüntüsü oluşturulurken hata oluştu. Grab sürüm 0.8 veya daha üstü gerekli!"
+
+#~ msgid "Mosaic"
+#~ msgstr "Mozaik"
